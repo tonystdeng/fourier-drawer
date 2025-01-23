@@ -1,4 +1,4 @@
-# C++ Complex Fourier Series Visualizer+SVG Compiler  .version 1.0
+# C++ Complex Fourier Series Visualizer/SVG Compiler  .version 1.0
 ## Project Explanation
 In simple terms, this project has two modes:
 - Compiler: Takes SVG files, and compiles them into a **Spirograph**.
