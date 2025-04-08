@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 
     if (*argv[1]=='c')
     {
-        return compile(argv[2],200);
+        return compile(argv[2],50);
     }else if (*argv[1]=='o')
     {
         Game game(argv[2]);
